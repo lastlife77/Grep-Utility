@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/lastlife77/grep-go/internal/searchutil"
+	"github.com/lastlife77/Grep-Utility/internal/searchutil"
 )
 
 func main() {
